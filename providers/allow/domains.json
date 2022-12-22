@@ -2,19 +2,19 @@
     {
         "name": "Blockcore",
         "url": "https://swaps.blockcore.net",
-        "logo": "../logos/blockcore.png",
+        "logo": "https://lists.papasi.io/providers/logos/blockcore.png",
         "contact": "post@blockcore.net"
     },
     {
         "name": "Coinvault",
         "url": "https://swaps.coinvault.io",
-        "logo": "../logos/coinvault.png",
+        "logo": "https://lists.papasi.io/providers/logos/coinvault.png",
         "contact": "post@coinvault.io"
     },
     {
         "name": "Seniorblockchain",
         "url": "https://swaps.seniorblockchain.io",
-        "logo": "../logos/seniorblockchain.png",
+        "logo": "https://lists.papasi.io/providers/logos/seniorblockchain.png",
         "contact": "post@seniorblockchain.io"
     }
 ]
