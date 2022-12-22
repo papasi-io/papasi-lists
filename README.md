@@ -1,5 +1,5 @@
 # papasi lists
-Repository that contains the allow and block lists for Blockcore Atomic Swaps hosts.
+Repository that contains the allow and block lists for Blockcore Atomic Swaps Providers and the list of coins listed in Papasi exchange.
 
 Based around the same ideas of [PhishFort Counter-Phishing Lists](https://github.com/phishfort/phishfort-lists).
 
